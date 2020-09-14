@@ -1,0 +1,8 @@
+---
+fullname: jvautier/ansible-role-summon
+description: Install summon through ansible
+tags:
+  - ansible
+  - ansible-role
+  - summon
+github: {}
